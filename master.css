@@ -208,7 +208,14 @@ a {
 
 .special {
     text-align: justify;
-    line-height: 1.6;
+    line-height: 1.8;
+}
+
+.work-logo {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: auto;
 }
 
 .profile-page {
@@ -1123,6 +1130,14 @@ p .custom-span {
     padding: 0 5px 0 5px;
     margin: 8px 0;
     line-height: 1.3 !important;
+}
+
+.profile-page img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: -18px center;
 }
 
 
